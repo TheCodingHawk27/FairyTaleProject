@@ -1,2 +1,2 @@
 # FairyTaleProject
- The Repository containing our VIST 210 Project for Team TBD
+ The Repository containing our VIST 210 Project for Team Chicken Little
