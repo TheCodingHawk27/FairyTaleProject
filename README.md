@@ -1,2 +1,2 @@
 # FairyTaleProject
- The Repository containing our VIST 210 Project for Team Chicken Little
+ Developed with Unreal Engine 5
