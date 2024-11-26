@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56eb667f-c80d-444b-b5c5-092932c77786" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Inventory/EmptyInventoryUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Inventory/EmptyInventoryUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Inventory/MainInventoryUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Inventory/MainInventoryUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/DirtyLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/DirtyLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/OpeningLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/OpeningLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/PinkLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/PinkLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/WhiteLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/WhiteLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/YellowLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/CursiveLetters/MainLetters/YellowLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableDirtyLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableDirtyLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableOpeningLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableOpeningLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadablePinkLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadablePinkLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableWhiteLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableWhiteLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableYellowLetterUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Letters/ReadableLetters/MainLetters/ReadableYellowLetterUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/CreditsMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/CreditsMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/SettingsMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/SettingsMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/TitleScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainMenuUI/TitleScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/ChurchUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/ChurchUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/GraveyardUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/GraveyardUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/InteractionInstructions.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/InteractionInstructions.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/KatrinasRoomUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/KatrinasRoomUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/PauseMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/PauseMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/SchoolhouseUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/SchoolhouseUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/SleepyHollowUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/SleepyHollowUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/ToBeContinuedUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/ToBeContinuedUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/VanTasselBarnUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/VanTasselBarnUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/MainUI/WB_Cursor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/MainUI/WB_Cursor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationChurch.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationChurch.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationGraveyard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationGraveyard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationKatrinasRoom.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationKatrinasRoom.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationSchoolhouse.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationSchoolhouse.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationSleepyHollow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationSleepyHollow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationVanTasselBarn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/NextScenePopups/NextSceneConfirmationVanTasselBarn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Objectives/ChurchObjectiveUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Objectives/ChurchObjectiveUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Objectives/GraveyardObjectiveUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Objectives/GraveyardObjectiveUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/Objectives/SchoolhouseObjectiveUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/Objectives/SchoolhouseObjectiveUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/ChurchyardSceneStartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/ChurchyardSceneStartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending1StartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending1StartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending2StartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending2StartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending3StartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending3StartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending4StartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/Ending4StartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/KatrinasRoomSceneStartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/KatrinasRoomSceneStartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/SchoolhouseSceneStartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/SchoolhouseSceneStartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/SleepyHollowSceneStartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/SleepyHollowSceneStartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/VanTasselBarnSceneStartupCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/David/UI/SceneStartupCards/VanTasselBarnSceneStartupCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/TitleScreen.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/TitleScreen.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/FairyTaleProject.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/FairyTaleProject.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Telemetry/Telemetry.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Telemetry/Telemetry.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2pN4W2BalQpERvgIxHfszjAmMvK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56eb667f-c80d-444b-b5c5-092932c77786" name="Changes" comment="" />
+      <created>1732593226788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732593226788</updated>
+      <workItem from="1732593228433" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
